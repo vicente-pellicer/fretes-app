@@ -1,0 +1,39 @@
+{
+  "name": "fretes-app",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.tsx",
+  "dependencies": {
+    "@chakra-ui/react": "latest",
+    "@emotion/react": "latest",
+    "@emotion/styled": "latest",
+    "@types/react-router": "5.1.18",
+    "@types/react-router-dom": "5.3.3",
+    "axios": "0.27.2",
+    "framer-motion": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-icons": "4.4.0",
+    "react-router": "6.3.0",
+    "react-router-dom": "6.3.0",
+    "react-scripts": "latest"
+  },
+  "devDependencies": {
+    "@types/react": "latest",
+    "@types/react-dom": "latest",
+    "typescript": "latest"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
